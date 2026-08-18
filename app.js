@@ -787,7 +787,7 @@ function compressSlots(slots) {
 // ============================================================
 // GAS URL（契約 §3.C 三層優先序）
 // ============================================================
-const DEFAULT_GAS_URL = "https://script.google.com/macros/s/AKfycby8i5bnQ-oKZMO1HUQO6pJF6f_XQL8bQHO2Yj3nJ2D7NCzNZbe_bhks8hxTVZWWSxz7/exec";  // 已鎖定部署網址
+const DEFAULT_GAS_URL = "https://script.google.com/macros/s/AKfycbwEXgx8CzuDneqQVxliJi8lPU0K3lql6jGfBLnLfU3CG-GEFI0dbdfLlt0EjPJPwe2sWA/exec";  // 已鎖定部署網址
 const FRONTEND_VERSION = '20260818_v1161_bind_multistart_cohort_priority';
 
 function resolveGasUrl() {
